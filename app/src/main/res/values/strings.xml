@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Monsters World</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="content_description_app_loading_image">App loading image</string>
+    <string name="content_description_title_image">80\'s Video Game Style Car Logo</string>
+    <string name="content_desc_gas_gauge_indicator">Gas gauge indicator</string>
+    <string name="content_desc_free_vs_premium_indicator">Free or Premium Image Indicator</string>
+    <string name="buy">buy</string>
+    <string name="xxx">xxx</string>
+    <string name="todo">TODO</string>
+</resources>
